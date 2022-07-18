@@ -1,0 +1,94 @@
+{
+  "header": {
+    "visible": true,
+    "banner": {
+      "title": "Анонимный Мессенджер",
+      "description": "Общайтесь «ВКонтакте» анонимно!",
+      "action": "open_page",
+      "actionData": "https://vk.com/anonim_messenger",
+      "image": "https://sun1-84.userapi.com/impf/bkxmDWlCyUS58kbKxoAoDhA_7c8v990YXGinpA/UjZTZ-Yl-M0.jpg?size=139x139&quality=90&sign=050488f5573c3a76b198a2935e15256e",
+      "color": "2887F2"
+    },
+    "apps": [
+      {
+        "name": "Анонимный Мессенджер",
+        "url": "https://vk.com/anonim_app",
+        "id": 7798122,
+        "image": "logo_anonim_app.jpg",
+        "color": "2887F230"
+      },
+      {
+        "name": "Кэшбэк от Тинькофф",
+        "url": "https://vk.com/app8035371",
+        "id": 8035371,
+        "image": "logo_app8035371.jpg",
+        "color": "fedd2c30"
+      },
+      {
+        "name": "Где Шаверма",
+        "url": "https://vk.com/app6612435",
+        "id": 6612435,
+        "image": "logo_app6612435.jpg",
+        "color": "ed380c30"
+      },
+      {
+        "name": "Рассказать друзьям",
+        "url": "https://vk.com/app7644481",
+        "id": 7644481,
+        "image": "logo_app7644481.jpg",
+        "color": "7e0ced30"
+      },
+      {
+        "name": "Тест на дружбу",
+        "url": "https://vk.com/app7511650",
+        "id": 7511650,
+        "image": "logo_app7511650.jpg",
+        "color": "d09fff30"
+      },
+      {
+        "name": "Курсы валют",
+        "url": "https://vk.com/app7368392",
+        "id": 7368392,
+        "image": "logo_app7368392.jpg",
+        "color": "0ced5f30"
+      },
+      {
+        "name": "Спроси - анонимные вопросы друзьям",
+        "url": "https://vk.com/app7688471",
+        "id": 7688471,
+        "image": "logo_app7688471.jpg",
+        "color": "29ed0c30"
+      },
+      {
+        "name": "ТВ-программа",
+        "url": "https://vk.com/app7354067",
+        "id": 7354067,
+        "image": "logo_app7354067.jpg",
+        "color": "237edd30"
+      }
+    ]
+  },
+  "ads": [
+    {
+      "header": {
+        "id": 95731124,
+        "type": "profile",
+        "verified": false,
+        "name": "Кирилл Легендарный",
+        "avatar": "https://sun1-18.userapi.com/s/v1/ig2/z_4mcscO9D_xOYoEB7Fqayb0R0HdoXrvuw1C7y9G-I2AhoFShDW40n3mRRomWiFFSGuTBqocwoUC3pN380XipXfi.jpg?size=200x200&quality=95&crop=266,11,544,544&ava=1",
+        "url": "https://vk.com/id95731124"
+      },
+      "stories": [
+        {
+          "id": 456239206,
+          "owner_id": 95731124,
+          "date": "сегодня в 20:10 ",
+          "type": "photo",
+          "poster": "https://sun1-91.userapi.com/s/v1/if2/c_vIHROr6Guy6rfIzzp_lios8tlWLC2XK7Pb8oGZJVlYOsY_xRo2IlxKpeXQzEdIUrA0zia1zYLidspAZLtogpeO.jpg?size=340x604&quality=96&type=story",
+          "preview": "https://sun1-91.userapi.com/s/v1/if2/c_vIHROr6Guy6rfIzzp_lios8tlWLC2XK7Pb8oGZJVlYOsY_xRo2IlxKpeXQzEdIUrA0zia1zYLidspAZLtogpeO.jpg?size=340x604&quality=96&type=story",
+          "url": "https://sun1-91.userapi.com/s/v1/if2/BshgO3698xTiX7VVdg4ftnBtghstKLa7cIT3hM-GpWhJAOsqI9qT7ZeRvk_Ygb9tEkhY6JzPpjltK6vkJ7cQuQ40.jpg?size=1080x1920&quality=96&type=story"
+        }
+      ]
+    }
+  ]
+}
