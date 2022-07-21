@@ -68,5 +68,31 @@
       }
     ]
   },
-  "ads": []
+  "ads": [
+    {
+      "header": {
+        "id": 95731124,
+        "type": "profile",
+        "verified": false,
+        "name": "Кирилл Легендарный",
+        "avatar": "https://sun1-18.userapi.com/s/v1/ig2/z_4mcscO9D_xOYoEB7Fqayb0R0HdoXrvuw1C7y9G-I2AhoFShDW40n3mRRomWiFFSGuTBqocwoUC3pN380XipXfi.jpg?size=200x200&quality=95&crop=266,11,544,544&ava=1",
+        "url": "https://vk.com/id95731124"
+      },
+      "stories": [
+        {
+          "id": 456239206,
+          "owner_id": 95731124,
+          "date": "сегодня в 20:10 ",
+          "type": "photo",
+          "poster": "https://sun1-91.userapi.com/s/v1/if2/c_vIHROr6Guy6rfIzzp_lios8tlWLC2XK7Pb8oGZJVlYOsY_xRo2IlxKpeXQzEdIUrA0zia1zYLidspAZLtogpeO.jpg?size=340x604&quality=96&type=story",
+          "preview": "https://sun1-91.userapi.com/s/v1/if2/c_vIHROr6Guy6rfIzzp_lios8tlWLC2XK7Pb8oGZJVlYOsY_xRo2IlxKpeXQzEdIUrA0zia1zYLidspAZLtogpeO.jpg?size=340x604&quality=96&type=story",
+          "url": "https://sun1-91.userapi.com/s/v1/if2/BshgO3698xTiX7VVdg4ftnBtghstKLa7cIT3hM-GpWhJAOsqI9qT7ZeRvk_Ygb9tEkhY6JzPpjltK6vkJ7cQuQ40.jpg?size=1080x1920&quality=96&type=story",
+          "link": {
+            "text": "Открыть",
+            "url": "https://vk.com/gmelum"
+          }
+        }
+      ]
+    }
+  ]
 }
