@@ -1,6 +1,6 @@
 {
   "header": {
-    "visible": true,
+    "visible": false,
     "banner": {
       "title": "Анонимный Мессенджер",
       "description": "Общайтесь «ВКонтакте» анонимно!",
@@ -18,18 +18,18 @@
         "color": "2887F230"
       },
       {
-        "name": "Кэшбэк от Тинькофф",
-        "url": "https://vk.com/app8035371",
-        "id": 8035371,
-        "image": "logo_app8035371.jpg",
-        "color": "fedd2c30"
+        "name": "Sheep Royale 2",
+        "url": "https://vk.com/app51491054",
+        "id": 51491054,
+        "image": "logo_app51491054.jpg",
+        "color": "2887F230"
       },
       {
-        "name": "Где Шаверма",
-        "url": "https://vk.com/app6612435",
-        "id": 6612435,
-        "image": "logo_app6612435.jpg",
-        "color": "ed380c30"
+        "name": "Обратный отсчёт",
+        "url": "https://vk.com/app51423056",
+        "id": 51423056,
+        "image": "logo_app51423056.jpg",
+        "color": "00000030"
       },
       {
         "name": "Рассказать друзьям",
@@ -37,34 +37,6 @@
         "id": 7644481,
         "image": "logo_app7644481.jpg",
         "color": "7e0ced30"
-      },
-      {
-        "name": "Тест на дружбу",
-        "url": "https://vk.com/app7511650",
-        "id": 7511650,
-        "image": "logo_app7511650.jpg",
-        "color": "d09fff30"
-      },
-      {
-        "name": "Курсы валют",
-        "url": "https://vk.com/app7368392",
-        "id": 7368392,
-        "image": "logo_app7368392.jpg",
-        "color": "0ced5f30"
-      },
-      {
-        "name": "Спроси - анонимные вопросы друзьям",
-        "url": "https://vk.com/app7688471",
-        "id": 7688471,
-        "image": "logo_app7688471.jpg",
-        "color": "29ed0c30"
-      },
-      {
-        "name": "ТВ-программа",
-        "url": "https://vk.com/app7354067",
-        "id": 7354067,
-        "image": "logo_app7354067.jpg",
-        "color": "237edd30"
       }
     ]
   },
