@@ -1,42 +1,28 @@
 {
   "header": {
-    "visible": false,
+    "visible": true,
     "banner": {
       "title": "Анонимный Мессенджер",
       "description": "Общайтесь «ВКонтакте» анонимно!",
       "action": "open_page",
-      "actionData": "https://vk.com/anonim_messenger",
-      "image": "https://sun1-84.userapi.com/impf/bkxmDWlCyUS58kbKxoAoDhA_7c8v990YXGinpA/UjZTZ-Yl-M0.jpg?size=139x139&quality=90&sign=050488f5573c3a76b198a2935e15256e",
+      "actionData": "https://vk.ru/anonim_messenger",
+      "image": "https://sun1-84.userapi.ru/impf/bkxmDWlCyUS58kbKxoAoDhA_7c8v990YXGinpA/UjZTZ-Yl-M0.jpg?size=139x139&quality=90&sign=050488f5573c3a76b198a2935e15256e",
       "color": "2887F2"
     },
     "apps": [
       {
         "name": "Анонимный Мессенджер",
-        "url": "https://vk.com/anonim_app",
+        "url": "https://vk.ru/anonim_app",
         "id": 7798122,
         "image": "logo_anonim_app.jpg",
         "color": "2887F230"
       },
       {
-        "name": "Sheep Royale 2",
-        "url": "https://vk.com/app51491054",
-        "id": 51491054,
-        "image": "logo_app51491054.jpg",
-        "color": "2887F230"
-      },
-      {
-        "name": "Обратный отсчёт",
-        "url": "https://vk.com/app51423056",
-        "id": 51423056,
-        "image": "logo_app51423056.jpg",
-        "color": "00000030"
-      },
-      {
-        "name": "Рассказать друзьям",
-        "url": "https://vk.com/app7644481",
-        "id": 7644481,
-        "image": "logo_app7644481.jpg",
-        "color": "7e0ced30"
+        "name": "Кино Вместе",
+        "url": "https://vk.ru/app8022222",
+        "id": 8022222,
+        "image": "logo_app8022222.jpg",
+        "color": "FD2A9B"
       }
     ]
   },
